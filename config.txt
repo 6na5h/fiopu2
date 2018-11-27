@@ -1,0 +1,6 @@
+﻿token=NTE2ODM3OTM3NjUzMjE5MzMx.Dt5eXg.ufYWbsi3B1mSmbl-gImbOyYR7uE
+owner=435239093182398480
+prefix= 7
+game= 7play
+stayinchannel=true
+songinstatus=true 
